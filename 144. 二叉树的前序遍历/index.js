@@ -21,3 +21,5 @@ var preorderTraversal = function(root) {
     traverse(root);
     return res;
 };
+// 题目地址 https://leetcode-cn.com/problems/binary-tree-preorder-traversal/
+// 提交记录 https://leetcode-cn.com/submissions/detail/157045555/

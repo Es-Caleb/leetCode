@@ -36,3 +36,5 @@ var flatten = function(root) {
     return root;
     
 };
+// 题目地址 https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/
+// 提交记录 https://leetcode-cn.com/submissions/detail/157136495/

@@ -24,3 +24,5 @@ var isSameTree = function(p, q) {
     }
     return new Boolean(calculation(p, q));
 };
+// 题目地址 https://leetcode-cn.com/problems/same-tree/
+// 提交记录 https://leetcode-cn.com/submissions/detail/157143458/

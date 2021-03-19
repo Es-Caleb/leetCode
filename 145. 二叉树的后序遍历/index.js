@@ -21,3 +21,5 @@ var postorderTraversal = function(root) {
     traverse(root);
     return res;
 };
+// 题目地址 https://leetcode-cn.com/problems/binary-tree-postorder-traversal/
+// 提交记录 https://leetcode-cn.com/submissions/detail/157046590/

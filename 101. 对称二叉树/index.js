@@ -26,3 +26,5 @@ var isSymmetric = function(root) {
     const res = new Boolean(symmetric(root, root));
     return res;
 };
+// 题目地址 https://leetcode-cn.com/problems/symmetric-tree/
+// 提交记录 https://leetcode-cn.com/submissions/detail/157068490/

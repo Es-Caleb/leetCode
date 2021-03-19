@@ -28,3 +28,5 @@ var connect = function(root) {
     connectTwoNode(root.left, root.right);
     return root;
 };
+// 题目地址 https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/
+// 提交记录 https://leetcode-cn.com/submissions/detail/157127758/
