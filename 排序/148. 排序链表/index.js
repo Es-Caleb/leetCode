@@ -9,7 +9,7 @@
  * @param {ListNode} head
  * @return {ListNode}
  */
-var insertionSortList = function(head) {
+var sortList = function(head) {
     if (head === null) {
         return head;
     }
@@ -32,5 +32,5 @@ var insertionSortList = function(head) {
     }
     return dummyHead.next;
 };
-// 题目地址 https://leetcode-cn.com/problems/insertion-sort-list/
-// 提交记录 https://leetcode-cn.com/submissions/detail/169877423/
+// 题目地址 https://leetcode-cn.com/problems/sort-list/
+// 提交记录 https://leetcode-cn.com/submissions/detail/169878779/
